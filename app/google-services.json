@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786903093484",
+    "project_id": "la-nueve",
+    "storage_bucket": "la-nueve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786903093484:android:cec867c3fd88693f61d5c9",
+        "android_client_info": {
+          "package_name": "com.example.la_nueve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786903093484-cp5cb3g3n5b5hfkub7c12hv6cum1s2op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.la_nueve",
+            "certificate_hash": "15aad1e9ff7f4208778f2e65af49ec082bd9fff8"
+          }
+        },
+        {
+          "client_id": "786903093484-lrcptgju1b1anui7mq42561ntqeir67k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ROMiH-6AReSuU3f8CaQSc-Af0Xk_iB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786903093484-lrcptgju1b1anui7mq42561ntqeir67k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
